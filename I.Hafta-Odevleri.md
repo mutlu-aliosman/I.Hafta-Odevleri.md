@@ -5,7 +5,7 @@
 - [Stackoverflow](https://stackoverflow.com/users/14513833/ali-osman-mutlu)
 - [Linkedin](https://www.linkedin.com/in/ali-osman-mutlu-a343331b9/)
 ## Docker Nedir ?  Docker'a ait kavramlar nelerdir ?
-- Docker; eliştirme ekiplerinin heryerde uygulama oluşturup yönetmesine ve güvenli hâle
+- Docker; geliştirme ekiplerinin heryerde uygulama oluşturup yönetmesine ve güvenli hâle
 Getirmesine olanak tanıyan yeni bir teknolojidir.
 - Docker işletim sisteminin bir klonudur ancak boyut olarak çok çok küçük boyutlardadır.
 
