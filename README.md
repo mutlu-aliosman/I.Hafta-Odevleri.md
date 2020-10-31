@@ -1,1 +1,0 @@
-# I.Hafta-Odevleri.md
